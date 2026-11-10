@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Terminal Stats](https://github-stats-terminal-style-five.vercel.app/api/stats?username=VertigoJang&theme=tokyonight)](https://github.com/VertigoJang)
+<img src="assets/profile-card.svg" width="700">
