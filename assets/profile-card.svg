@@ -13,7 +13,7 @@
 <tspan x="384" dy="23"><tspan fill="#7dcfff">Stars     </tspan><tspan fill="#a9b1d6">: 0</tspan></tspan>
 <tspan x="384" dy="23"><tspan fill="#7dcfff">Followers </tspan><tspan fill="#a9b1d6">: 1</tspan></tspan>
 <tspan x="384" dy="23"><tspan fill="#7dcfff">Following </tspan><tspan fill="#a9b1d6">: 0</tspan></tspan>
-<tspan x="384" dy="23"><tspan fill="#7dcfff">Langs     </tspan><tspan fill="#a9b1d6">: Shell · Python · Kotlin</tspan></tspan>
+<tspan x="384" dy="23"><tspan fill="#7dcfff">Langs     </tspan><tspan fill="#a9b1d6">: Python · Shell · Kotlin</tspan></tspan>
 <tspan x="384" dy="23"><tspan fill="#7dcfff">Uptime    </tspan><tspan fill="#a9b1d6">: 4 years, 1 month</tspan></tspan>
 <tspan x="384" dy="34" fill="#9ece6a">$ </tspan></text>
 <rect x="408" y="273" width="11" height="18" fill="#a9b1d6"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
